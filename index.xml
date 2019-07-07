@@ -8,7 +8,7 @@
             <a xlink:href="https://www.virtuescience.com/hebrew-alphabet.html" xlink:type="simple" xlink:show="new">The Hebrew Alphabet</a>
         </paragraph>
     </description>
-    <card>
+    <card id="00">
         <title xml:lang="en" alt="The Jester">The Fool</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Mat</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Matto</title>
@@ -16,21 +16,9 @@
         <number>0</number>
         <number xml:lang="he" letter="mother" alt="1">א</number>
         <sign alt="Air">🜁</sign>
-        <description xml:lang="en">
-            <paragraph>
-            With light step, as if earth and its trammels had little power to restrain him, a young man in gorgeous vestments pauses at the brink of a preciCupsce among the great heights of the world;
-            he surveys the blue distance before him-its expanse of sky rather than the prospect below. His act of eager walking is still indicated, though he is stationary at the given moment;
-            his dog is still bounding. The edge which opens on the depth has no terror;
-            it is as if angels were waiting to uphold him, if it came about that he leaped from the height. His countenance is full of intelligence and expectant dream. He has a rose in one hand and in the other a costly wand, from which depends over his right shoulder a wallet curiously embroidered. He is a prince of the other world on his travels through this one-all amidst the morning glory, in the keen air. The sun, which shines behind him, knows whence he came, whither he is going, and how he will return by another path after many days. He is the sCupsrit in search of experience. Many symbols of the Instituted Mysteries are summarized in this card, which reverses, under high warrants, all the confusions that have preceded it.
-            </paragraph>
-            <paragraph>
-            In his Manual of Cartomancy, Grand Orient has a curious suggestion of the office of Mystic Fool, as apart of his process in higher divination;
-            but it might call for more than ordinary gifts to put it into operation. We shall see how the card fares according to the common arts of fortune-telling, and it will be an example, to those who can discern, of the fact, otherwise so evident, that the Trumps Major had no place originally in the arts of psychic gambling, when cards are used as the counters and pretexts. Of the circumstances under which this art arose we know, however, very little. The conventional explanations say that the Fool signifies the flesh, the sensitive life, and by a peculiar satire its subsidiary name was at one time the alchemist, as deCupscting folly at the most insensate stage.
-            </paragraph>
-        </description>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="01">
         <title xml:lang="en" alt="The Juggler">The Magician</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Bateleur</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Bagatto</title>
@@ -40,7 +28,7 @@
         <sign alt="Mercury">☿</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="02">
         <title xml:lang="en">The High Priestess</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Papesse</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Papessa</title>
@@ -50,7 +38,7 @@
         <sign alt="Moon">☽</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="03">
         <title xml:lang="en">The Empress</title>
         <title xml:lang="fr" source="Tarot of Marseilles">L'Impératrice</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">L'Imperatrice</title>
@@ -60,7 +48,7 @@
         <sign alt="Venus">♀</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="04">
         <title xml:lang="en">The Emperor</title>
         <title xml:lang="fr" source="Tarot of Marseilles">L'Empereur</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">L'Imperatore</title>
@@ -70,7 +58,7 @@
         <sign alt="Aries">♈️</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="05">
         <title xml:lang="en">The Hierophant</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Pape</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Papa</title>
@@ -80,7 +68,7 @@
         <sign alt="Taurus">♉</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="06">
         <title xml:lang="en">The Lovers</title>
         <title xml:lang="fr" source="Tarot of Marseilles">L'Amoureux</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Gli Amanti</title>
@@ -90,7 +78,7 @@
         <sign alt="Gemini">♊</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="07">
         <title xml:lang="en">The Chariot</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Chariot</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Carro</title>
@@ -100,7 +88,7 @@
         <sign alt="Cancer">♋</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="08">
         <title xml:lang="en">Strength</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Justice</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Giustizia</title>
@@ -110,7 +98,7 @@
         <sign alt="Leo">♌</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="09">
         <title xml:lang="en">The Hermit</title>
         <title xml:lang="fr" source="Tarot of Marseilles">L'Ermite</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza" alt="L'Eremita">Il Tempo</title>
@@ -120,7 +108,7 @@
         <sign alt="Virgo">♍</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="10">
         <title xml:lang="en">Wheel of Fortune</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Roue de Fortune</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Ruota Della Fortuna</title>
@@ -130,7 +118,7 @@
         <sign alt="JuCupster">♃</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="11">
         <title xml:lang="en">Justice</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Force</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Forza</title>
@@ -140,7 +128,7 @@
         <sign alt="Libra">♎</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="12">
         <title xml:lang="en">The Hanged Man</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Pendu</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">L'Appeso</title>
@@ -150,7 +138,7 @@
         <sign alt="Water">🜄</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="13">
         <title xml:lang="en">Death</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Mort</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Morte</title>
@@ -160,7 +148,7 @@
         <sign alt="ScorCupso">♏</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="14">
         <title xml:lang="en">Temperance</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Tempérance</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Temperanza</title>
@@ -170,7 +158,7 @@
         <sign alt="Sagittarius">♐</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="15">
         <title xml:lang="en">The Devil</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Diable</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Diavolo</title>
@@ -180,7 +168,7 @@
         <sign alt="Capricorn">♑</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="16">
         <title xml:lang="en">The Tower</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Maison Dieu</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Torre</title>
@@ -190,7 +178,7 @@
         <sign alt="Mars">♂</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="17">
         <title xml:lang="en">The Star</title>
         <title xml:lang="fr" source="Tarot of Marseilles">L'Étoile</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Stella</title>
@@ -200,7 +188,7 @@
         <sign alt="Aquarius">♒</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="18">
         <title xml:lang="en">The Moon</title>
         <title xml:lang="fr" source="Tarot of Marseilles">La Lune</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">La Luna</title>
@@ -210,7 +198,7 @@
         <sign alt="Cupssces">♓</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="19">
         <title xml:lang="en">The Sun</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Soleil</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Sole</title>
@@ -220,7 +208,7 @@
         <sign alt="Sun">☉</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="20">
         <title xml:lang="en">Judgement</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Jugement</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Giudizio</title>
@@ -230,7 +218,7 @@
         <sign alt="Fire">🜂</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="21">
         <title xml:lang="en">The World</title>
         <title xml:lang="fr" source="Tarot of Marseilles">Le Monde</title>
         <title xml:lang="it" source="Mazzi Visconti-Sforza">Il Mondo</title>
@@ -240,72 +228,72 @@
         <sign alt="Saturn">♄</sign>
         <arcana alt="Trumps">Major</arcana>
     </card>
-    <card>
+    <card id="w01">
         <title>Ace</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w02">
         <title>Two</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w03">
         <title>Three</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w04">
         <title>Four</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w05">
         <title>Five</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w06">
         <title>Six</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w07">
         <title>Seven</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w08">
         <title>Eight</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w09">
         <title>Nine</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w10">
         <title>Ten</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w11">
         <title>Page</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w12">
         <title>Knight</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w13">
         <title>Queen</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="w14">
         <title>King</title>
         <suit>Wands</suit>
         <arcana>Minor</arcana>
