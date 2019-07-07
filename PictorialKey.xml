@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deck xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title xml:lang="en">The Pictorial Key to the Tarot</title>
+    <description xml:lang="en">
+        <paragraph>
+            <a xlink:href="https://www.sacred-texts.com/tarot/pkt/index.htm" xlink:type="simple" xlink:show="new">By Arthur Edward Waite</a>
+            Although there were many Tarot decks prior to the Rider-Waite-Smith deck, and many after, none has gripped the popular imagination as much as this set. Waite covers the significance and deeper implications of each card, and gives practical instructions as to how to conduct a reading. The symbolism of the Rider-Waite-Smith deck is based on profound occult studies by Waite, and his exposition in this book of its use and meaning is unexcelled. This is a must-read for anyone who wants to understand the Tarot.--J. B. Hare
+        </paragraph>
+    </description>
     <card id="00">
         <description xml:lang="en">
             <paragraph>
