@@ -299,214 +299,214 @@
         <arcana>Minor</arcana>
     </card>
 
-    <card>
+    <card id="c01">
         <title>Ace</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c02">
         <title>Two</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c03">
         <title>Three</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c04">
         <title>Four</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c05">
         <title>Five</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c06">
         <title>Six</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c07">
         <title>Seven</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c08">
         <title>Eight</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c09">
         <title>Nine</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c10">
         <title>Ten</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c11">
         <title>Page</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c12">
         <title>Knight</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c13">
         <title>Queen</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="c14">
         <title>King</title>
         <suit>Cups</suit>
         <arcana>Minor</arcana>
     </card>
 
-    <card>
+    <card id="s01">
         <title>Ace</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s02">
         <title>Two</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s03">
         <title>Three</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s04">
         <title>Four</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s05">
         <title>Five</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s06">
         <title>Six</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s07">
         <title>Seven</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s08">
         <title>Eight</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s09">
         <title>Nine</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s10">
         <title>Ten</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s11">
         <title>Page</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s12">
         <title>Knight</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s13">
         <title>Queen</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="s14">
         <title>King</title>
         <suit>Swords</suit>
         <arcana>Minor</arcana>
     </card>
 
-    <card>
+    <card id="p01">
         <title>Ace</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p02">
         <title>Two</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p03">
         <title>Three</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p04">
         <title>Four</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p05">
         <title>Five</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p06">
         <title>Six</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p07">
         <title>Seven</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p08">
         <title>Eight</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p09">
         <title>Nine</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p10">
         <title>Ten</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p11">
         <title>Page</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p12">
         <title>Knight</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p13">
         <title>Queen</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
     </card>
-    <card>
+    <card id="p14">
         <title>King</title>
         <suit>Pentacles</suit>
         <arcana>Minor</arcana>
